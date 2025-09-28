@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23508
-Fork on GitHub8026
+
 <h1 align="center">Hi 👋, I'm Abolfazl Hamidian</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
 
