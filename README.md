@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Hamidian</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 💫 About Me:
-<br><br>🔭 I’m currently working on .NET projects and learning more about software architecture.  <br>👯 I’m looking to collaborate on open-source projects and innovative web applications.  <br>🤝 I’m looking for help with improving my skills in cloud technologies and AI.  <br>🌱 I’m currently learning advanced .NET, Python, and machine learning basics.  <br>💬 Ask me about C#, .NET Core, and software development best practices.  <br>⚡ Fun fact: I love exploring new technologies and turning ideas into real projects.<br>
+<br><br>🔭 I’m currently working on .NET projects and learning more about software architecture.  <br>👯🤝 I’m looking for help with improving my skills in software engineering and AI  <br>🤖 I’m interested in developing smart Telegram bots using Python and C# and APIs.  <br>🌱 I’m currently learning advanced .NET, Python, and machine learning basics.  <br>💬 Ask me about C#, .NET Core, and software development best practices.  <br>⚡ Fun fact: I love exploring new technologies and turning ideas into real projects.<br>
 
 
 ## 🌐 Socials:
